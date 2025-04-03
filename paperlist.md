@@ -1,4 +1,4 @@
-This is a paper list I read while studying embodied intelligence
+具身智能论文阅读
 Created on 2025/3/29
 
 # VLAs
