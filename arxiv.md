@@ -2,7 +2,8 @@
 ## 25/04/07
 -  SeGuE: Semantic Guided Exploration for Mobile Robots [pdf](https://arxiv.org/pdf/2504.03629)
 -  **Dexterous Manipulation through Imitation Learning: A Survey** [pdf](https://arxiv.org/pdf/2504.03515)
-> survey
+-  Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [pdf](https://arxiv.org/pdf/2504.02477)
+> 2 surveys
 -  AuDeRe: Automated Strategy Decision and Realization in Robot Planning and Control via LLMs [pdf](https://arxiv.org/pdf/2504.03015)
 > propose a framework that leverages LLMs to select appropriate planning and control strategies based on task descriptions, environmental constraints, and system dynamics. These strategies are then executed by calling the available comprehensive planning and control APIs. Our approach employs iterative LLM-based reasoning with performance feedback to refine the algorithm selection
 -  DML-RAM: Deep Multimodal Learning Framework for Robotic Arm Manipulation using Pre-trained Models [pdf](https://arxiv.org/pdf/2504.03423)
