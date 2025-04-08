@@ -11,3 +11,7 @@
 -  **Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets** [pdf](https://arxiv.org/pdf/2504.02792)
 > built a unified diffusion, which is used for **policy model, dynamic model, inverse dynamic model, video-prediction model** 
 
+## 25/04/08
+- Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms[pdf](https://arxiv.org/pdf/2504.04991)
+> reframe imitation learning policies through the lens of the frequency domain and introduce the Wavelet Policy
+- Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions [pdf](https://arxiv.org/pdf/2504.04603)
