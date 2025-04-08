@@ -16,5 +16,5 @@ Created on 2025/3/29
 
 # Benchmark
 - **[NeurIPS'23]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c3c666820ea055a77726d66fc7d447f-Paper-Datasets_and_Benchmarks.pdf)
-> LIBERO-SPATIAL\LIBERO-OBJECT\LIBERO-GOAL 各包含10个任务，用于测试空间、物体、任务目标的迁移
+> LIBERO-SPATIAL\LIBERO-OBJECT\LIBERO-GOAL 各包含10个任务，用于测试空间、物体、任务目标的迁移 \\
 > LIBERO-SPATIAL -- 同一个碗在不同的空间关系
