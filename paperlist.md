@@ -13,6 +13,7 @@ Created on 2025/3/29
 - Any-point Trajectory Modeling for Policy Learning. [arXiv](https://arxiv.org/pdf/2401.00025)
 - **[CVPR'25]** CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models. [arXiv](https://arxiv.org/pdf/2503.22020) [web](https://cot-vla.github.io/) [2025/4/2]
 > 提出视觉思维链，以预测未来视觉观察作为子目标，并生成动作
+- Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [pdf](https://arxiv.org/pdf/2204.01691)
 
 # Benchmark
 - **[NeurIPS'23]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c3c666820ea055a77726d66fc7d447f-Paper-Datasets_and_Benchmarks.pdf)
