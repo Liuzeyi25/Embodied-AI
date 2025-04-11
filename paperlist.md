@@ -3,6 +3,7 @@ Created on 2025/3/29
 
 # VLAs
 - OpenVLA: An Open-Source Vision-Language-Action Model. [arXiv](https://arxiv.org/pdf/2406.09246). [2025/3/22]
+- Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success[arXiv](https://arxiv.org/html/2502.19645v1)
 
 # Reasoning
 - Robotic Control via Embodied Chain-of-Thought Reasoning. [arXiv](https://arxiv.org/pdf/2407.08693) [2025/3/25]
