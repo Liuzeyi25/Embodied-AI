@@ -16,6 +16,9 @@ Created on 2025/3/29
 > 提出视觉思维链，以预测未来视觉观察作为子目标，并生成动作
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [arXiv](https://arxiv.org/pdf/2204.01691)
 
+# Foudation Models
+- R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
+> A vision representation foundation model for robotics manipulation
 # Benchmark
 - **[NeurIPS'23]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c3c666820ea055a77726d66fc7d447f-Paper-Datasets_and_Benchmarks.pdf)
 > LIBERO-SPATIAL\LIBERO-OBJECT\LIBERO-GOAL 各包含10个任务，用于测试空间、物体、任务目标的迁移<br>
