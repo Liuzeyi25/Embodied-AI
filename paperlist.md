@@ -13,7 +13,7 @@ Created on 2025/3/29
 - EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/4ec43957eda1126ad4887995d05fae3b-Paper-Conference.pdf) [2025/4/3]
 - Any-point Trajectory Modeling for Policy Learning. [arXiv](https://arxiv.org/pdf/2401.00025)
 - **[CVPR'25]** CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models. [arXiv](https://arxiv.org/pdf/2503.22020) [web](https://cot-vla.github.io/) [2025/4/2]
-> 提出视觉思维链，以预测未来视觉观察作为子目标，并生成动作
+> vision cot，以预测未来视觉观察作为子目标，并生成动作
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [arXiv](https://arxiv.org/pdf/2204.01691)
 - **[ICLR'24]** TEXT2REWARD: REWARD SHAPING WITH LANGUAGE MODELS FOR REINFORCEMENT LEARNING [arXiv](https://arxiv.org/pdf/2309.11489)
 > dense reward
