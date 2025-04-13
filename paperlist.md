@@ -15,6 +15,8 @@ Created on 2025/3/29
 - **[CVPR'25]** CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models. [arXiv](https://arxiv.org/pdf/2503.22020) [web](https://cot-vla.github.io/) [2025/4/2]
 > 提出视觉思维链，以预测未来视觉观察作为子目标，并生成动作
 - Do As I Can, Not As I Say: Grounding Language in Robotic Affordances [arXiv](https://arxiv.org/pdf/2204.01691)
+- **[ICLR'24]** TEXT2REWARD: REWARD SHAPING WITH LANGUAGE MODELS FOR REINFORCEMENT LEARNING [arXiv](https://arxiv.org/pdf/2309.11489)
+> dense reward
 
 # Foudation Models
 - R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
