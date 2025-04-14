@@ -19,7 +19,7 @@ Created on 2025/3/29
 > dense reward
 
 # Reinforcement Learning
-- Refined Policy Distillation: From VLA Generalists to RL Experts [arXiv](https://arxiv.org/pdf/2503.05833)
+- Refined Policy Distillation: From VLA Generalists to RL Experts [arXiv](https://arxiv.org/pdf/2503.05833) [2025/04/14]
 > Distilling knowledge from VLAs to RL expert model.
 
 # Foudation Models
