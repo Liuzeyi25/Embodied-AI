@@ -18,9 +18,14 @@ Created on 2025/3/29
 - **[ICLR'24]** TEXT2REWARD: REWARD SHAPING WITH LANGUAGE MODELS FOR REINFORCEMENT LEARNING [arXiv](https://arxiv.org/pdf/2309.11489)
 > dense reward
 
+# Reinforcement Learning
+- Refined Policy Distillation: From VLA Generalists to RL Experts [arXiv](https://arxiv.org/pdf/2503.05833)
+> Distilling knowledge from VLAs to RL expert model.
+
 # Foudation Models
 - R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
 > A vision representation foundation model for robotics manipulation
+
 # Benchmark
 - **[NeurIPS'23]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c3c666820ea055a77726d66fc7d447f-Paper-Datasets_and_Benchmarks.pdf)
 > LIBERO-SPATIAL\LIBERO-OBJECT\LIBERO-GOAL 各包含10个任务，用于测试空间、物体、任务目标的迁移<br>
