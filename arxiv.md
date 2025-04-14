@@ -17,3 +17,7 @@
 ## 25/04/09
 - MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos [pdf](https://arxiv.org/pdf/2504.06084)
 > a novel method for dexterous robotic manipulation that exploits rich manipulation priors to enable efficient policy learning and better performance on diverse
+
+## 25/04/14
+- Diffusion models for robotics manipulation: a survey [pdf](https://arxiv.org/pdf/2504.08438)
+- 
