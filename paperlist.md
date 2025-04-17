@@ -21,6 +21,7 @@ Created on 2025/3/29
 # Reinforcement Learning
 - Refined Policy Distillation: From VLA Generalists to RL Experts [arXiv](https://arxiv.org/pdf/2503.05833) [2025/04/14]
 > Distilling knowledge from VLAs to RL expert model.
+- Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models [arXiv](https://arxiv.org/pdf/2503.04280?)
 
 # Foudation Models
 - R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
