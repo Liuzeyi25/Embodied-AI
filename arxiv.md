@@ -20,4 +20,7 @@
 
 ## 25/04/14
 - Diffusion models for robotics manipulation: a survey [pdf](https://arxiv.org/pdf/2504.08438)
-- 
+
+## 25/05/07
+- CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation. [arxiv](https://arxiv.org/pdf/2505.02166)
+- Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions [arXiv](https://arxiv.org/pdf/2505.02152)
