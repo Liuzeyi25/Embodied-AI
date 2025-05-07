@@ -7,6 +7,8 @@ Created on 2025/3/29
 - π0: A Vision-Language-Action Flow Model for General Robot Control [paper](https://www.physicalintelligence.company/download/pi0.pdf) [web](https://www.physicalintelligence.company/blog/pi0)
 - **[CVPR'25]** CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation. [arxiv](https://arxiv.org/pdf/2505.02166)
 > vision prompt & multi-modal prompt, including contact point, z-direction, y-direction, moving direction, which can be combined as a high-level trajectory.
+- Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions [arXiv](https://arxiv.org/pdf/2505.02152)
+> develop an automatic pipeline that converts text-only instructions from real-world datasets in Open X-Embodiment into interleaved image-text instructions
 
 # Reasoning
 - Robotic Control via Embodied Chain-of-Thought Reasoning. [arXiv](https://arxiv.org/pdf/2407.08693) [2025/3/25]
