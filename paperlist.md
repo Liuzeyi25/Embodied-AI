@@ -29,7 +29,8 @@ Created on 2025/3/29
 - Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation with Large Language Models [arXiv](https://arxiv.org/pdf/2503.04280?) [2025/04/17]
 - **[RSS'25]** ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. [arXiv](https://arxiv.org/pdf/2502.05450)
 - Reward Generation via Large Vision-Language Model in Offline Reinforcement Learning [arXiv](https://arxiv.org/pdf/2504.08772v1)
-- **[NIPS'24]** Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)
+- **[NIPS'24]** !! Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)
+> PPO finetune VLM, generate action through structural prompt, optimize with a simple PPO framework.
 
 # Foudation Models
 - R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
