@@ -27,3 +27,8 @@
 - RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation [arXiv](https://arxiv.org/pdf/2505.01709)
 - LLM-based Interactive Imitation Learning for Robotic Manipulation [arXiv](https://arxiv.org/pdf/2504.21769)
 
+## 25/05/08
+- Reward Generation via Large Vision-Language Model in Offline Reinforcement Learning [arXiv](https://arxiv.org/pdf/2504.08772v1)
+- Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)
+
+
