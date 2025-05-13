@@ -31,4 +31,7 @@
 - Reward Generation via Large Vision-Language Model in Offline Reinforcement Learning [arXiv](https://arxiv.org/pdf/2504.08772v1)
 - Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning [arXiv](https://proceedings.neurips.cc/paper_files/paper/2024/file/c848b7d3adc08fcd0bf1df3101ba6728-Paper-Conference.pdf)
 
+## 25/05/12
+- Learning to Act Anywhere with Task-centric Latent Actions [ArXiv](https://arxiv.org/pdf/2505.06111)
+
 
