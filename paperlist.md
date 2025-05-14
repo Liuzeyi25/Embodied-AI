@@ -8,7 +8,9 @@ Created on 2025/3/29
 - **[CVPR'25]** CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation. [arxiv](https://arxiv.org/pdf/2505.02166)
 > vision prompt & multi-modal prompt, including contact point, z-direction, y-direction, moving direction, which can be combined as a high-level trajectory.
 - Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions [arXiv](https://arxiv.org/pdf/2505.02152)
-> develop an automatic pipeline that converts text-only instructions from real-world datasets in Open X-Embodiment into interleaved image-text instructions
+> Develop an automatic pipeline that converts text-only instructions from real-world datasets in Open X-Embodiment into interleaved image-text instructions
+- UniVLA: Learning to Act Anywhere with Task-centric Latent Actions [arXiv](https://arxiv.org/pdf/2505.06111)
+> Train an inverse dynamic model to predict action using o_t and o_t+1, then map the action to the codebook. This paper divides the action into task-irrelevant action and task-centric action. Learning the latent action representation through VQ-VAE
 
 # Reasoning
 - Robotic Control via Embodied Chain-of-Thought Reasoning. [arXiv](https://arxiv.org/pdf/2407.08693) [2025/3/25]
