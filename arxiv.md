@@ -34,4 +34,10 @@
 ## 25/05/12
 - Learning to Act Anywhere with Task-centric Latent Actions [ArXiv](https://arxiv.org/pdf/2505.06111)
 
+## 25/05/14
+- H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning [arxiv](https://arxiv.org/pdf/2505.07819)
+- Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models [arxiv](https://arxiv.org/pdf/2505.07815)
+- GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion [arxiv](https://arxiv.org/pdf/2505.07455)
+
+
 
