@@ -36,6 +36,7 @@ Created on 2025/3/29
 - Improving Vision-Language-Action Model with Online Reinforcement Learning [arXiv](https://arxiv.org/pdf/2501.16664)
 > RL+SFT alternate optimization
 - Efficient Online Reinforcement Learning with Offline Data [arXiv](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf)
+- IN–RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-tuning. [arXiv](https://arxiv.org/pdf/2505.10442)
 
 
 # Foudation Models
