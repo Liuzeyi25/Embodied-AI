@@ -11,6 +11,7 @@ Created on 2025/3/29
 > Develop an automatic pipeline that converts text-only instructions from real-world datasets in Open X-Embodiment into interleaved image-text instructions
 - UniVLA: Learning to Act Anywhere with Task-centric Latent Actions [arXiv](https://arxiv.org/pdf/2505.06111)
 > Train an inverse dynamic model to predict action using o_t and o_t+1, then map the action to the codebook. This paper divides the action into task-irrelevant action and task-centric action. Learning the latent action representation through VQ-VAE
+- Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions [arXiv](https://arxiv.org/pdf/2505.11214)
 
 # Reasoning
 - Robotic Control via Embodied Chain-of-Thought Reasoning. [arXiv](https://arxiv.org/pdf/2407.08693) [2025/3/25]
