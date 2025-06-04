@@ -39,5 +39,7 @@
 - Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models [arxiv](https://arxiv.org/pdf/2505.07815)
 - GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion [arxiv](https://arxiv.org/pdf/2505.07455)
 
+## 25/06/04
+- Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [arXiv](https://arxiv.org/pdf/2506.01953)
 
 
