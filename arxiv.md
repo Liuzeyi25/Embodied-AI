@@ -41,5 +41,9 @@
 
 ## 25/06/04
 - Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [arXiv](https://arxiv.org/pdf/2506.01953)
+## 25/06/05
+-LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks [arXiv](https://arxiv.org/pdf/2506.00411)
+> high-level planning and low-level control
+
 
 
