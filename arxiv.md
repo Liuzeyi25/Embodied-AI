@@ -44,6 +44,8 @@
 ## 25/06/05
 -LoHoVLA: A Unified Vision-Language-Action Model for Long-Horizon Embodied Tasks [arXiv](https://arxiv.org/pdf/2506.00411)
 > high-level planning and low-level control
+- Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [arXiv](https://arxiv.org/pdf/2506.00070)
+> GRPO+SFT
 
 
 
