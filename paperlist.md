@@ -44,6 +44,10 @@ Created on 2025/3/29
 - R3M: A Universal Visual Representation for Robot Manipulation [arXiv](https://arxiv.org/pdf/2203.12601) [2025/04/11]
 > A vision representation foundation model for robotics manipulation
 
+# Asynchronous System
+- Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning [arXiv](https://arxiv.org/pdf/2506.01953)
+- 
+
 # Benchmark
 - **[NeurIPS'23]** LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/8c3c666820ea055a77726d66fc7d447f-Paper-Datasets_and_Benchmarks.pdf)
 > LIBERO-SPATIAL\LIBERO-OBJECT\LIBERO-GOAL 各包含10个任务，用于测试空间、物体、任务目标的迁移<br>
