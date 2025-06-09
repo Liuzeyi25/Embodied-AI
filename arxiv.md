@@ -46,6 +46,10 @@
 > high-level planning and low-level control
 - Robot-R1: Reinforcement Learning for Enhanced Embodied Reasoning in Robotics [arXiv](https://arxiv.org/pdf/2506.00070)
 > GRPO+SFT
+## 25/06/09
+- SmolVLA: A vision-language-action model for affordable and efficient robotics [arXiv](https://arxiv.org/pdf/2506.01844)
+- Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization [arXiv](https://arxiv.org/pdf/2506.06196)
+> mid-level representation from multi-expert
 
 
 
