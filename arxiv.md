@@ -50,6 +50,8 @@
 - SmolVLA: A vision-language-action model for affordable and efficient robotics [arXiv](https://arxiv.org/pdf/2506.01844)
 - Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization [arXiv](https://arxiv.org/pdf/2506.06196)
 > mid-level representation from multi-expert
+## 25/08/04
+- [**IROS'25**] Policy Learning from Large Vision-Language Model Feedback Without Reward Modeling [arXiv](https://arxiv.org/pdf/2507.23391)
 
 
 
