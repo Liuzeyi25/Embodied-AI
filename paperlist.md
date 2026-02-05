@@ -14,6 +14,9 @@ Created on 2025/3/29
 - Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions [arXiv](https://arxiv.org/pdf/2505.11214)
 - SmolVLA: A vision-language-action model for affordable and efficient robotics [arXiv](https://arxiv.org/pdf/2506.01844)
 
+# Continual RL for Robots
+- CRL-VLA: Continual Vision–Language–Action Learning. [arXiv](https://arxiv.org/pdf/2602.03445)
+> 冻结旧策略，分别使用新任务的价值变化与状态分布变化来衡量新任务的优化潜力与优化幅度，分别使用旧任务的价值变化与状态分布变化来衡量旧任务的优势幅度与衰退幅度。将旧策略优势幅度转化为价值估计，提出双critic框架分别限制新旧任务的价值上界，提出KL散度限制策略的更新幅度
 # Reasoning
 - Robotic Control via Embodied Chain-of-Thought Reasoning. [arXiv](https://arxiv.org/pdf/2407.08693) [2025/3/25]
 - RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control [arXiv](https://arxiv.org/pdf/2307.15818) [2025/3/28]
