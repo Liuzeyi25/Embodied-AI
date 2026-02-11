@@ -13,6 +13,7 @@ Created on 2025/3/29
 > Train an inverse dynamic model to predict action using o_t and o_t+1, then map the action to the codebook. This paper divides the action into task-irrelevant action and task-centric action. Learning the latent action representation through VQ-VAE
 - Unveiling the Potential of Vision-Language-Action Models with Open-Ended Multimodal Instructions [arXiv](https://arxiv.org/pdf/2505.11214)
 - SmolVLA: A vision-language-action model for affordable and efficient robotics [arXiv](https://arxiv.org/pdf/2506.01844)
+- VLA-0: Building State-of-the-Art VLAs with Zero Modification [arXiv](https://arxiv.org/pdf/2510.13054)
 
 # Continual RL for Robots
 - CRL-VLA: Continual Vision–Language–Action Learning. [arXiv](https://arxiv.org/pdf/2602.03445)
