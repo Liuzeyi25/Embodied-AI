@@ -45,6 +45,8 @@ Created on 2025/3/29
 - IN–RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-tuning. [arXiv](https://arxiv.org/pdf/2505.10442)
 - SELF-IMPROVING VISION-LANGUAGE-ACTION MODELS WITH DATA GENERATION VIA RESIDUAL RL. [arXiv](https://arxiv.org/pdf/2511.00091)
 > initial base policy by VLA, 用RL训练残差policy，用残差policy+base policy rollout轨迹，并用轨迹微调base vla，解决的是base vla微调所需大量高质量数据的问题
+- GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation
+> 假定人类轨迹次优
 
 
 # Foudation Models
