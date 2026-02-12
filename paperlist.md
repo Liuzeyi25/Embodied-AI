@@ -46,7 +46,7 @@ Created on 2025/3/29
 - SELF-IMPROVING VISION-LANGUAGE-ACTION MODELS WITH DATA GENERATION VIA RESIDUAL RL. [arXiv](https://arxiv.org/pdf/2511.00091)
 > initial base policy by VLA, 用RL训练残差policy，用残差policy+base policy rollout轨迹，并用轨迹微调base vla，解决的是base vla微调所需大量高质量数据的问题
 - GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation
-> 假定人类轨迹次优
+> 假定人类轨迹次优. (1)滤波筛选，离线训练一个Critic网络作为progress评价器，然后衡量好的轨迹 (2)online-rl训练一个初始噪声预测器，预测到一个较好的初始噪声，再用去噪网络得到动作
 
 
 # Foudation Models
