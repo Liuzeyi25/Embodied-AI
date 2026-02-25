@@ -6,7 +6,7 @@
 首先，通过 Git 克隆主仓库，并利用 `uv` 提供的安装脚本一键配置 **OpenVLA-OFT** 与 **ManiSkill LIBERO** 的自定义环境。
 
 ```bash
-git clone [https://github.com/RLinf/RLinf.git](https://github.com/RLinf/RLinf.git)
+git clone https://github.com/RLinf/RLinf.git
 cd RLinf
 
 bash requirements/install.sh embodied --model openvla --env maniskill_libero
@@ -21,8 +21,7 @@ bash requirements/install.sh embodied --model openvla --env maniskill_libero
 source .venv/bin/activate
 pip install -e .
 
-git clone [https://github.com/moojink/openvla-oft.git](https://github.com/moojink/openvla-oft.git)
-cd openvla-oft
+git clone https://github.com/moojink/openvla-oft.git
 pip install -e .
 cd ..
 ```
@@ -33,8 +32,7 @@ cd ..
 退回主目录后，继续配置 LIBERO 仿真环境并下载所需的数据集（此处以 `libero_100` 为例）。
 
 ```bash
-git clone [https://github.com/Lifelong-Robot-Learning/LIBERO.git](https://github.com/Lifelong-Robot-Learning/LIBERO.git)
-cd LIBERO
+git clone https://github.com/Lifelong-Robot-Learning/LIBERO.git
 pip install -e .
 
 python benchmark_scripts/download_libero_datasets.py --datasets libero_100
