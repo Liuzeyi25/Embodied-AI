@@ -9,7 +9,7 @@
 git clone https://github.com/RLinf/RLinf.git
 cd RLinf
 
-bash requirements/install.sh embodied --model openvla --env maniskill_libero
+bash requirements/install.sh embodied --model openvla-oft --env maniskill_libero
 ```
 
 ---
